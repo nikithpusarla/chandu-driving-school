@@ -221,9 +221,10 @@ img {
     gap: 10px;
 }
 
-.logo i {
-    color: var(--accent);
-    font-size: 1.8rem;
+.logo .custom-logo {
+    height: 2.2rem;
+    width: auto;
+    object-fit: contain;
 }
 
 .nav-list {
